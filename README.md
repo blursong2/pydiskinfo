@@ -3,6 +3,8 @@
 eh cdi-like disk information system
 # require(utilized shit)
 
+python 3.14.6 +(cause im using that)
+
 systemctl(gnuproject)
 
 pyqt6(pypi)
