@@ -7,11 +7,7 @@ systemctl(gnuproject)
 
 pyqt6(pypi)
 
-subprocess(pypi)
-
-sys(pypi)
-
-json(pypi
+subprocess, sys, json (pypi)
 
 # vt?
 
