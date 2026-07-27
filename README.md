@@ -6,7 +6,6 @@ eh cdi-like disk information system
 systemctl(gnuproject)
 
 pyqt6(pypi)
-
 subprocess(pypi)
 
 sys(pypi)
