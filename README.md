@@ -3,6 +3,8 @@
 eh cdi-like disk information system
 
 frondend tool for smartctl
+
+[download](https://github.com/blursong2/pydiskinfo/releases)
 # require(utilized shit)
 
 python 3.14.6 +(cause im using that)
