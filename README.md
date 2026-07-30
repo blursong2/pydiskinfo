@@ -2,12 +2,12 @@
 
 eh cdi-like disk information system
 
-frondend tool for systemctl
+frondend tool for smartctl
 # require(utilized shit)
 
 python 3.14.6 +(cause im using that)
 
-systemctl(gnuproject)
+smartctl(gnuproject)
 
 pyqt6(pypi)
 
